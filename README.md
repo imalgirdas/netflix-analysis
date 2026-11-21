@@ -209,9 +209,6 @@ Netflix/
 
 ---
 
-## Author
+<h3>Author</h3>
 
-**Algirdas Vailionis**, Data Analyst
-[GitHub](https://github.com/imalgirdas)
-
-<sub>Netflix branding is used as a visual theme only. This project is not affiliated with or endorsed by Netflix, Inc.</sub>
+<strong>Algirdas Vailionis</strong>, Data Scientist · <a href="https://www.linkedin.com/in/algirdas-vailionis">LinkedIn</a> · <a href="mailto:algirdas.vailionis@gmail.com">Email</a>
